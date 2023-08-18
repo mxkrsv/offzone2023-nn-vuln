@@ -1,0 +1,12 @@
+chatgpt3.5: fine (tested manually with openssl cli, code also seems fine)
+chatgpt4: couldn't veryfy the signature even with manual code fixes,
+but it definitely hashes the message twice
+(see the sign method and run `isinstance(..., ellipticcurve.CurveEdTw)`)
+openassistant:
+	sample1: XXX
+	(invalid methods,
+	invalid function arguments count,
+	completely invalid package/function choice)
+	sample2: XXX
+	(invalid import,
+	such a method doesn't exist)
