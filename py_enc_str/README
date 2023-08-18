@@ -1,0 +1,4 @@
+chatgpt3.5: fine
+chatgpt4: uses AES-CBC, which may lead to serious problems when used
+without knowing it's issues, mainly the IV attack
+openassistant: XXX (bad algos)
