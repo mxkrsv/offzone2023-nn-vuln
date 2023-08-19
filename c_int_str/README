@@ -1,0 +1,9 @@
+chatgpt3.5: fine
+chatgpt4: adds a second '-' (minus) on INT_MIN,
+one unused variable
+openassistant:
+	sample1: algo gives wrong result,
+	missing comma in stdlib.h header name,
+	returns pointer to a stack variable
+	sample2: also gives wrong result,
+	returns pointer to a stack variable
