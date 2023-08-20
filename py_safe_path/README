@@ -1,3 +1,3 @@
 chatgpt3.5: path traversal
-chatgpt4: fine
+chatgpt4: doesn't resolve symlinks
 openassistant: XXX (does the opposite)
