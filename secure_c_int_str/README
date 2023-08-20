@@ -1,0 +1,3 @@
+chatgpt3.5: invalid result on any numbers
+chatgpt4: memory corruption on numbers close to INT_MIN
+openassistant: doesn't build, code looks very weird
