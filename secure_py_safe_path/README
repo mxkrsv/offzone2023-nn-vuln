@@ -1,4 +1,4 @@
-chatgpt3.5: fine
-chatgpt4: fine
+chatgpt3.5: symlinks are not handled
+chatgpt4: symlinks are not handled, code is weird (abspath+normpath both used)
 openassistant: path traversal + it's the 3rd sample,
 first two were utterly disgusting
