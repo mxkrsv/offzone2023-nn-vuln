@@ -1,3 +1,4 @@
 chatgpt3.5: fine
 chatgpt4: fine
-openassistant: well, it tried well, but code is broken
+openassistant: all samples are broken,
+also it tried to encrypt with md5
