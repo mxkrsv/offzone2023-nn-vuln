@@ -4,7 +4,7 @@ class FileAccessError(Exception):
     pass
 
 class File:
-    def init(self, path):
+    def __init__(self, path):
         self.path = path
 
     # Add more methods if needed to interact with the file.

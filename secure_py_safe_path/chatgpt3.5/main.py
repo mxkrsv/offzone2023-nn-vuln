@@ -4,7 +4,7 @@ class SecureFileAccessError(Exception):
     pass
 
 class SecureFile:
-    def init(self, path):
+    def __init__(self, path):
         self.path = path
         if not self.is_path_secure():
             raise SecureFileAccessError("Access to this file is not allowed.")
